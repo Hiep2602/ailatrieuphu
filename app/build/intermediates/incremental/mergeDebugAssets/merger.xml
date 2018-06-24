@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\hieph\Desktop\codeAndroid\app\src\main\assets"><file name="trieuphu_games" path="C:\Users\hieph\Desktop\codeAndroid\app\src\main\assets\trieuphu_games"/></source><source path="C:\Users\hieph\Desktop\codeAndroid\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\hieph\Desktop\codeAndroid\app\src\debug\assets"/></dataSet></merger>
